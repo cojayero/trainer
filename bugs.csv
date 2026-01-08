@@ -1,0 +1,2 @@
+bug_id,titulo,descripcion,estado,severidad,requisito_id,fecha_creacion,fecha_cierre,notas
+1,Ejemplo: error al abrir vista de vocabulario,"Al pulsar '単語N5 (Vocabulario N5)' la aplicación se cierra con excepción.",abierto,alta,RF-VO-01,,,"Eliminar o corregir acceso a datos inexistentes en app/data/vocab_n5.json"

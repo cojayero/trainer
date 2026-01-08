@@ -1,0 +1,191 @@
+[
+  {
+    "user_id": 1,
+    "item_type": "kana",
+    "item_id": 8,
+    "srs_level": 1,
+    "last_review": "2026-01-08T17:14:07",
+    "right_count": 1,
+    "wrong_count": 1
+  },
+  {
+    "user_id": 1,
+    "item_type": "kana",
+    "item_id": 43,
+    "srs_level": 1,
+    "last_review": "2026-01-08T17:14:12",
+    "right_count": 1,
+    "wrong_count": 0
+  },
+  {
+    "user_id": 1,
+    "item_type": "kana",
+    "item_id": 6,
+    "srs_level": 1,
+    "last_review": "2026-01-08T17:14:16",
+    "right_count": 1,
+    "wrong_count": 0
+  },
+  {
+    "user_id": 1,
+    "item_type": "kana",
+    "item_id": 120,
+    "srs_level": 1,
+    "last_review": "2026-01-08T18:25:58",
+    "right_count": 1,
+    "wrong_count": 1
+  },
+  {
+    "user_id": 1,
+    "item_type": "kana",
+    "item_id": 107,
+    "srs_level": 2,
+    "last_review": "2026-01-08T17:40:21",
+    "right_count": 2,
+    "wrong_count": 0
+  },
+  {
+    "user_id": 1,
+    "item_type": "kana",
+    "item_id": 132,
+    "srs_level": 1,
+    "last_review": "2026-01-08T17:36:41",
+    "right_count": 1,
+    "wrong_count": 0
+  },
+  {
+    "user_id": 1,
+    "item_type": "kana",
+    "item_id": 137,
+    "srs_level": 1,
+    "last_review": "2026-01-08T17:40:15",
+    "right_count": 1,
+    "wrong_count": 0
+  },
+  {
+    "user_id": 1,
+    "item_type": "kana",
+    "item_id": 72,
+    "srs_level": 2,
+    "last_review": "2026-01-08T18:06:57",
+    "right_count": 2,
+    "wrong_count": 1
+  },
+  {
+    "user_id": 1,
+    "item_type": "kana",
+    "item_id": 130,
+    "srs_level": 1,
+    "last_review": "2026-01-08T18:25:49",
+    "right_count": 1,
+    "wrong_count": 0
+  },
+  {
+    "user_id": 1,
+    "item_type": "kana",
+    "item_id": 126,
+    "srs_level": 1,
+    "last_review": "2026-01-08T18:25:54",
+    "right_count": 1,
+    "wrong_count": 0
+  },
+  {
+    "user_id": 1,
+    "item_type": "kana",
+    "item_id": 140,
+    "srs_level": 1,
+    "last_review": "2026-01-08T18:26:02",
+    "right_count": 1,
+    "wrong_count": 0
+  },
+  {
+    "user_id": 1,
+    "item_type": "kana",
+    "item_id": 116,
+    "srs_level": 1,
+    "last_review": "2026-01-08T18:26:45",
+    "right_count": 2,
+    "wrong_count": 2
+  },
+  {
+    "user_id": 1,
+    "item_type": "kana",
+    "item_id": 141,
+    "srs_level": 2,
+    "last_review": "2026-01-08T18:26:16",
+    "right_count": 2,
+    "wrong_count": 0
+  },
+  {
+    "user_id": 1,
+    "item_type": "kana",
+    "item_id": 187,
+    "srs_level": 2,
+    "last_review": "2026-01-08T18:26:29",
+    "right_count": 2,
+    "wrong_count": 1
+  },
+  {
+    "user_id": 1,
+    "item_type": "kana",
+    "item_id": 168,
+    "srs_level": 2,
+    "last_review": "2026-01-08T18:26:38",
+    "right_count": 2,
+    "wrong_count": 0
+  },
+  {
+    "user_id": 1,
+    "item_type": "kana",
+    "item_id": 195,
+    "srs_level": 1,
+    "last_review": "2026-01-08T18:26:56",
+    "right_count": 1,
+    "wrong_count": 1
+  },
+  {
+    "user_id": 1,
+    "item_type": "kana",
+    "item_id": 106,
+    "srs_level": 0,
+    "last_review": "2026-01-08T18:34:16",
+    "right_count": 0,
+    "wrong_count": 1
+  },
+  {
+    "user_id": 1,
+    "item_type": "vocab",
+    "item_id": 13,
+    "srs_level": 0,
+    "last_review": "2026-01-08T18:34:37",
+    "right_count": 0,
+    "wrong_count": 1
+  },
+  {
+    "user_id": 1,
+    "item_type": "vocab",
+    "item_id": 9,
+    "srs_level": 1,
+    "last_review": "2026-01-08T18:35:07",
+    "right_count": 1,
+    "wrong_count": 0
+  },
+  {
+    "user_id": 1,
+    "item_type": "vocab",
+    "item_id": 14,
+    "srs_level": 0,
+    "last_review": "2026-01-08T18:35:32",
+    "right_count": 0,
+    "wrong_count": 1
+  },
+  {
+    "user_id": 1,
+    "item_type": "kanji",
+    "item_id": 1,
+    "srs_level": 0,
+    "last_review": "2026-01-08T18:53:42",
+    "right_count": 0,
+    "wrong_count": 1
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "word_jp": "学校",
+    "reading": "がっこう",
+    "meaning_es": "escuela",
+    "pos": "sustantivo",
+    "tags": ["lugar", "básico"]
+  },
+  {
+    "id": 2,
+    "word_jp": "先生",
+    "reading": "せんせい",
+    "meaning_es": "profesor / profesora",
+    "pos": "sustantivo",
+    "tags": ["persona", "básico"]
+  },
+  {
+    "id": 3,
+    "word_jp": "学生",
+    "reading": "がくせい",
+    "meaning_es": "estudiante",
+    "pos": "sustantivo",
+    "tags": ["persona", "básico"]
+  },
+  {
+    "id": 4,
+    "word_jp": "水",
+    "reading": "みず",
+    "meaning_es": "agua",
+    "pos": "sustantivo",
+    "tags": ["comida", "básico"]
+  },
+  {
+    "id": 5,
+    "word_jp": "食べる",
+    "reading": "たべる",
+    "meaning_es": "comer",
+    "pos": "verbo",
+    "tags": ["verbo", "básico"]
+  },
+  {
+    "id": 6,
+    "word_jp": "本",
+    "reading": "ほん",
+    "meaning_es": "libro",
+    "pos": "sustantivo",
+    "tags": ["objetos", "básico"]
+  },
+  {
+    "id": 7,
+    "word_jp": "車",
+    "reading": "くるま",
+    "meaning_es": "coche",
+    "pos": "sustantivo",
+    "tags": ["transporte", "básico"]
+  },
+  {
+    "id": 8,
+    "word_jp": "電車",
+    "reading": "でんしゃ",
+    "meaning_es": "tren",
+    "pos": "sustantivo",
+    "tags": ["transporte", "básico"]
+  },
+  {
+    "id": 9,
+    "word_jp": "犬",
+    "reading": "いぬ",
+    "meaning_es": "perro",
+    "pos": "sustantivo",
+    "tags": ["animal", "básico"]
+  },
+  {
+    "id": 10,
+    "word_jp": "猫",
+    "reading": "ねこ",
+    "meaning_es": "gato",
+    "pos": "sustantivo",
+    "tags": ["animal", "básico"]
+  },
+  {
+    "id": 11,
+    "word_jp": "行く",
+    "reading": "いく",
+    "meaning_es": "ir",
+    "pos": "verbo",
+    "tags": ["verbo", "movimiento"]
+  },
+  {
+    "id": 12,
+    "word_jp": "来る",
+    "reading": "くる",
+    "meaning_es": "venir",
+    "pos": "verbo",
+    "tags": ["verbo", "movimiento"]
+  },
+  {
+    "id": 13,
+    "word_jp": "見る",
+    "reading": "みる",
+    "meaning_es": "ver",
+    "pos": "verbo",
+    "tags": ["verbo", "percepción"]
+  },
+  {
+    "id": 14,
+    "word_jp": "聞く",
+    "reading": "きく",
+    "meaning_es": "escuchar / preguntar",
+    "pos": "verbo",
+    "tags": ["verbo", "percepción"]
+  },
+  {
+    "id": 15,
+    "word_jp": "大きい",
+    "reading": "おおきい",
+    "meaning_es": "grande",
+    "pos": "adjetivo",
+    "tags": ["i-adjetivo", "básico"]
+  },
+  {
+    "id": 16,
+    "word_jp": "小さい",
+    "reading": "ちいさい",
+    "meaning_es": "pequeño",
+    "pos": "adjetivo",
+    "tags": ["i-adjetivo", "básico"]
+  },
+  {
+    "id": 17,
+    "word_jp": "高い",
+    "reading": "たかい",
+    "meaning_es": "caro / alto",
+    "pos": "adjetivo",
+    "tags": ["i-adjetivo", "básico"]
+  },
+  {
+    "id": 18,
+    "word_jp": "安い",
+    "reading": "やすい",
+    "meaning_es": "barato",
+    "pos": "adjetivo",
+    "tags": ["i-adjetivo", "básico"]
+  },
+  {
+    "id": 19,
+    "word_jp": "新しい",
+    "reading": "あたらしい",
+    "meaning_es": "nuevo",
+    "pos": "adjetivo",
+    "tags": ["i-adjetivo", "básico"]
+  },
+  {
+    "id": 20,
+    "word_jp": "古い",
+    "reading": "ふるい",
+    "meaning_es": "viejo",
+    "pos": "adjetivo",
+    "tags": ["i-adjetivo", "básico"]
+  }
+]

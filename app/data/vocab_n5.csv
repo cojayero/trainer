@@ -1,0 +1,21 @@
+id,word_jp,reading,meaning_es,pos,tags
+1,学校,がっこう,escuela,sustantivo,lugar;básico
+2,先生,せんせい,profesor / profesora,sustantivo,persona;básico
+3,学生,がくせい,estudiante,sustantivo,persona;básico
+4,水,みず,agua,sustantivo,comida;básico
+5,食べる,たべる,comer,verbo,verbo;básico
+6,本,ほん,libro,sustantivo,objetos;básico
+7,車,くるま,coche,sustantivo,transporte;básico
+8,電車,でんしゃ,tren,sustantivo,transporte;básico
+9,犬,いぬ,perro,sustantivo,animal;básico
+10,猫,ねこ,gato,sustantivo,animal;básico
+11,行く,いく,ir,verbo,verbo;movimiento
+12,来る,くる,venir,verbo,verbo;movimiento
+13,見る,みる,ver,verbo,verbo;percepción
+14,聞く,きく,escuchar / preguntar,verbo,verbo;percepción
+15,大きい,おおきい,grande,adjetivo,i-adjetivo;básico
+16,小さい,ちいさい,pequeño,adjetivo,i-adjetivo;básico
+17,高い,たかい,caro / alto,adjetivo,i-adjetivo;básico
+18,安い,やすい,barato,adjetivo,i-adjetivo;básico
+19,新しい,あたらしい,nuevo,adjetivo,i-adjetivo;básico
+20,古い,ふるい,viejo,adjetivo,i-adjetivo;básico

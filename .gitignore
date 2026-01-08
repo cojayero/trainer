@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual env
+.venv/
+venv/
+ENV/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local data files that can be regenerated or are user-specific
+app/__pycache__/
+app/*/__pycache__/
+
+# Logs / temp
+*.log
+*.tmp

@@ -1,0 +1,127 @@
+[
+  {
+    "id": 1,
+    "title_jp": "は",
+    "description_simple_jp": "トピック（話題）を示す助詞。",
+    "note_es": "Partícula de tema (wa). Marca el tema de la oración.",
+    "examples": [
+      "私は学生です。",
+      "今日は暑いです。",
+      "これは本です。"
+    ]
+  },
+  {
+    "id": 2,
+    "title_jp": "が",
+    "description_simple_jp": "主語や対比を示す助詞。",
+    "note_es": "Partícula ga. Marca el sujeto o enfatiza contraste.",
+    "examples": [
+      "雨が降っています。",
+      "犬が好きです。",
+      "彼が来ます。"
+    ]
+  },
+  {
+    "id": 3,
+    "title_jp": "を",
+    "description_simple_jp": "動作の対象（目的語）を示す助詞。",
+    "note_es": "Partícula o. Marca el objeto directo.",
+    "examples": [
+      "本を読みます。",
+      "水を飲みます。",
+      "日本語を勉強します。"
+    ]
+  },
+  {
+    "id": 4,
+    "title_jp": "に",
+    "description_simple_jp": "場所、時間、目的などを示す助詞。",
+    "note_es": "Partícula ni. Marca lugar destino, tiempo, punto de llegada.",
+    "examples": [
+      "学校に行きます。",
+      "七時に起きます。",
+      "日本に住んでいます。"
+    ]
+  },
+  {
+    "id": 5,
+    "title_jp": "で",
+    "description_simple_jp": "動作が行われる場所や手段を示す助詞。",
+    "note_es": "Partícula de. Marca lugar donde ocurre la acción o medio.",
+    "examples": [
+      "学校で勉強します。",
+      "バスで行きます。",
+      "家でごはんを食べます。"
+    ]
+  },
+  {
+    "id": 6,
+    "title_jp": "へ",
+    "description_simple_jp": "方向・行き先を示す助詞。",
+    "note_es": "Partícula e. Marca dirección o destino.",
+    "examples": [
+      "東京へ行きます。",
+      "日本へ来ました。"
+    ]
+  },
+  {
+    "id": 7,
+    "title_jp": "と",
+    "description_simple_jp": "一緒にする相手や並列表現を示す助詞。",
+    "note_es": "Partícula to. Une elementos o marca compañía.",
+    "examples": [
+      "友だちと映画を見ます。",
+      "パンと水を買います。"
+    ]
+  },
+  {
+    "id": 8,
+    "title_jp": "から",
+    "description_simple_jp": "出発点や原因を示す助詞。",
+    "note_es": "Partícula kara. Marca origen, punto de partida o causa.",
+    "examples": [
+      "九時から勉強します。",
+      "家から学校まで歩きます。"
+    ]
+  },
+  {
+    "id": 9,
+    "title_jp": "まで",
+    "description_simple_jp": "到着点、終点を示す助詞。",
+    "note_es": "Partícula made. Marca límite o hasta dónde.",
+    "examples": [
+      "三時まで働きます。",
+      "駅まで走ります。"
+    ]
+  },
+  {
+    "id": 10,
+    "title_jp": "も",
+    "description_simple_jp": "「〜も〜も」のように追加・強調を示す助詞。",
+    "note_es": "Partícula mo. Significa 'también' o 'ni siquiera'.",
+    "examples": [
+      "水も飲みます。",
+      "日本語も英語も話せます。"
+    ]
+  },
+  {
+    "id": 11,
+    "title_jp": "の",
+    "description_simple_jp": "名詞どうしをつなぎ、所有・説明を示す助詞。",
+    "note_es": "Partícula no. Une sustantivos (posesión, explicación).",
+    "examples": [
+      "これは私の本です。",
+      "日本の学校です。"
+    ]
+  },
+  {
+    "id": 12,
+    "title_jp": "や",
+    "description_simple_jp": "「AやB」など、不完全な並列を表す助詞。",
+    "note_es": "Partícula ya. Lista ejemplos no exhaustivos (A, B, etc.).",
+    "examples": [
+      "本やノートを買います。",
+      "日本語や英語を勉強します。"
+    ]
+  }
+]

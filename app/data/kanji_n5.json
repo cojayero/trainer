@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "kanji": "日",
+    "readings": ["にち", "ひ"],
+    "meanings_es": ["día", "sol"],
+    "examples": ["日本 (にほん) - Japón", "日曜日 (にちようび) - domingo"]
+  },
+  {
+    "id": 2,
+    "kanji": "人",
+    "readings": ["ひと", "じん"],
+    "meanings_es": ["persona"],
+    "examples": ["日本人 (にほんじん) - japonés/a", "一人 (ひとり) - una persona"]
+  },
+  {
+    "id": 3,
+    "kanji": "山",
+    "readings": ["やま"],
+    "meanings_es": ["montaña"],
+    "examples": ["山川 (やまかわ) - apellido", "山道 (やまみち) - camino de montaña"]
+  },
+  {
+    "id": 4,
+    "kanji": "川",
+    "readings": ["かわ"],
+    "meanings_es": ["río"],
+    "examples": ["川岸 (かわぎし) - orilla del río"]
+  },
+  {
+    "id": 5,
+    "kanji": "口",
+    "readings": ["くち"],
+    "meanings_es": ["boca"],
+    "examples": ["出口 (でぐち) - salida", "入口 (いりぐち) - entrada"]
+  },
+  {
+    "id": 6,
+    "kanji": "本",
+    "readings": ["ほん"],
+    "meanings_es": ["libro", "origen"],
+    "examples": ["本を読みます。- Leo un libro", "日本の本 - libro de Japón"]
+  },
+  {
+    "id": 7,
+    "kanji": "大",
+    "readings": ["おお", "だい"],
+    "meanings_es": ["grande"],
+    "examples": ["大きい (おおきい) - grande", "大学 (だいがく) - universidad"]
+  },
+  {
+    "id": 8,
+    "kanji": "小",
+    "readings": ["ちい", "しょう"],
+    "meanings_es": ["pequeño"],
+    "examples": ["小さい (ちいさい) - pequeño", "小学校 (しょうがっこう) - escuela primaria"]
+  },
+  {
+    "id": 9,
+    "kanji": "上",
+    "readings": ["うえ", "じょう"],
+    "meanings_es": ["arriba", "encima"],
+    "examples": ["机の上に本があります。- Hay un libro sobre la mesa"]
+  },
+  {
+    "id": 10,
+    "kanji": "下",
+    "readings": ["した", "か", "げ"],
+    "meanings_es": ["abajo", "debajo"],
+    "examples": ["いすの下 - debajo de la silla", "地下鉄 (ちかてつ) - metro"]
+  },
+  {
+    "id": 11,
+    "kanji": "中",
+    "readings": ["なか", "ちゅう"],
+    "meanings_es": ["dentro", "medio"],
+    "examples": ["部屋の中 - dentro de la habitación", "中国 (ちゅうごく) - China"]
+  },
+  {
+    "id": 12,
+    "kanji": "右",
+    "readings": ["みぎ", "う"],
+    "meanings_es": ["derecha"],
+    "examples": ["右を見てください。- Mira a la derecha"]
+  },
+  {
+    "id": 13,
+    "kanji": "左",
+    "readings": ["ひだり", "さ"],
+    "meanings_es": ["izquierda"],
+    "examples": ["左に曲がります。- Giro a la izquierda"]
+  },
+  {
+    "id": 14,
+    "kanji": "先",
+    "readings": ["さき", "せん"],
+    "meanings_es": ["antes", "adelante"],
+    "examples": ["先生 (せんせい) - profesor", "先に行きます。- Voy antes"]
+  },
+  {
+    "id": 15,
+    "kanji": "名",
+    "readings": ["な", "めい"],
+    "meanings_es": ["nombre"],
+    "examples": ["名前 (なまえ) - nombre", "有名 (ゆうめい) - famoso"]
+  }
+]
